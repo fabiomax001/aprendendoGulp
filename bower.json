@@ -1,0 +1,21 @@
+{
+  "name": "aprendendoGulp",
+  "homepage": "https://github.com/fabiomax001/aprendendoGulp",
+  "authors": [
+    "Fabio <fabiomax001@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^4.3.1"
+  }
+}
