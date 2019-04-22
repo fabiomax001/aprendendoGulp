@@ -1,16 +1,14 @@
-h1 {
-  color: #ccc;
-  width: 20px; }
-
-a {
-  color: blue; }
+* {
+  margin: 0;
+  padding: 0;
+  border: 0; }
 
 h1 {
-  color: #ccc;
-  width: 20px; }
-  h1 a {
-    color: blue; }
+  color: #272575;
+  width: 320px;
+  font-size: 30px; }
 
-a:hover {
-  text-decoration: none;
-  color: #ccc; }
+.caixa {
+  width: 100%;
+  padding: 2% 3%;
+  background-color: orange; }
