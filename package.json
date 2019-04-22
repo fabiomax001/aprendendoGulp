@@ -18,9 +18,7 @@
   "homepage": "https://github.com/fabiomax001/aprendendoGulp#readme",
   "devDependencies": {
     "gulp": "^4.0.1",
-    "gulp-ruby-sass": "^4.0.0",
     "gulp-sass": "^4.0.2",
-    "gulp-watch": "^5.0.1",
-    "sass": "^1.19.0"
+    "gulp-watch": "^5.0.1"
   }
 }
